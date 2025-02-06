@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './components/Navbar'
-import FAQ from './components/Faq'
+import FAQ from './components/FAQ'
 
 
 const App = () => {
